@@ -1,12 +1,4 @@
 public class GsonJacksonConverterTest{
-  public gsonToJacksonTest(){
-     // here is the gsonToJacksonTest
-    assertTrue(true);
-  }
 
-  public jacksonToGsonToTest(){
-     // here is the jacksonToGsonToTest
-    assertTrue(true);
-  }
 }
 
